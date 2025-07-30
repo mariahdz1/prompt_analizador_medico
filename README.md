@@ -1,2 +1,3 @@
-# prompt_analizador_medico
-Portafolio de Prompt Engineering con proyectos aplicados en salud, contenido, automatización y experiencia del usuario. Diseñado para demostrar habilidades en NLP, empatía conversacional y aplicaciones prácticas con IA.
+Este repositorio reúne una colección de prompts diseñados estratégicamente para resolver problemas reales mediante modelos de lenguaje como ChatGPT. Desde la explicación empática de resultados médicos hasta la generación de ideas para contenido digital, cada proyecto refleja habilidades en redacción estructurada, lenguaje natural, adaptación al usuario y aplicación de inteligencia artificial para mejorar procesos humanos.
+
+Este portafolio está en constante crecimiento y evolución, integrando nuevas áreas como automatización de respuestas, educación personalizada, análisis de sentimientos y más.
